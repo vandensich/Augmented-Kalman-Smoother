@@ -1,2 +1,2 @@
 # Augmented-Kalman-Smoother
-Code which constitutes the analysis of the paper "Non-parametric model-based estimation of the effective reproduction number for SARS-CoV-2"
+Code which constitutes the analysis of the paper "Non-parametric model-based estimation of the effective reproduction number for SARS-CoV-2" https://arxiv.org/abs/2111.09803 . For every figure in the paper there is a folder with the corresponding figure number. The scripts called sim_XY always contain the analysis with the Augmented Kalman Smoother method while the scripts named plot_XY constitute a way to visiualise the obtained results similar to the figures in the paper. The scripts are self contained in the folders and can simply be sourced.   
